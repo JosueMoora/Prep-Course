@@ -4,6 +4,7 @@ h1 {
 
 img {
     width: 400px;
+    height: 400px;
 }
 
 #thirdDiv {
@@ -11,7 +12,7 @@ img {
     height: 600px;
     background-color: lightblue;
     padding: 50px;
-    border: 2px solid blue;
+    border: 10px solid blue;
 
 }
 
